@@ -1,4 +1,3 @@
 Hi Myself khushal and here is my project is IPL Score Card Prediction.IPL(Indian Premier League) is one of the toughest and most popular cricket tournament across the globe,lot of players from different
-countries come and participate in this league.The format of this league is 20 overs and it's a simple Python application that allows users to predict the score of a 
-cricket match after a specified number of overs. Users can enter the names of two teams and the current score and the app will give a prediction of what the score might be after a set number of overs, 
+countries come and participate in this league.The format of this league is 20 overs and it's a simple Python application that allows users to predict the score of a cricket match after a specified number of overs. Users can enter the names of two teams and the current score and the code will give a prediction of what the score might be after a set number of overs, 
 usually 5 overs. This project can be a fun way to interact with cricket fans and predict the ongoing matches.
