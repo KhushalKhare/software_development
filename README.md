@@ -7,7 +7,9 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 3. Predict Score: App will predict the score after 5 overs
 
 # Prerequisites
-Install Python on your computer or Download Python from [Python Link](python.org.)
+Install Python on your computer or Download Python from [Python Link](https://www.python.org/)
 
 # Dataset 
-Our DataSet is one of the main because of which the project is working.Dataset contains 76000 rows and 15 columns and here is the link of dataset that you can access[DataSet Link](Data Set/ipl_data.csv)
+The dataset plays a pivotal role in the project's functionality, encompassing 76,000 rows and 15 columns. Access the dataset here: [DataSet Link](https://github.com/KhushalKhare/software_development/blob/main/Data%20Set/ipl_data.csv)
+
+
