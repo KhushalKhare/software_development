@@ -10,3 +10,4 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 Install Python on your computer or Download Python from [Python Link](python.org.)
 
 # Dataset 
+Our DataSet is one of the main because of which the project is working.Dataset contains 76000 rows and 15 columns and here is the link of dataset that you can access[DataSet Link](Data Set/ipl_data.csv)
