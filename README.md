@@ -9,7 +9,28 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 # Prerequisites
 Install Python on your computer or Download Python from [Python Link](https://www.python.org/)
 
-# Dataset 
+# Dataset
 The dataset plays a pivotal role in the project's functionality, encompassing 76,000 rows and 15 columns. Access the dataset here: [DataSet Link](https://github.com/KhushalKhare/software_development/blob/main/Data%20Set/ipl_data.csv)
+
+# Requirement Engineering 
+For every project, whether building a Python project or making a pizza, there are some requirements. For example, in my project, there are the main requirements mentioned below.
+1. Data: As we already have our data in CSV File and it contains historical IPL matches from 2008 to 2017.
+2. Tools and Resources: We need Python Programming Language,Libraries such as
+   * Pandas
+   * Numpy
+   * Matplotlib / Seaborn
+3. Domain Knowledge: Familiarity with the Indian Premier League (IPL), its teams, players, and rules of the game.Understanding of factors that influence match outcomes.
+   Knowledge of cricket analytics and how it is applied to predict match outcomes. Understanding of machine learning concepts,
+   including regression, classification, and feature engineering.
+
+4. Evaluation Metrics:
+  * Mean Absolute Error (MAE)
+  * Root Mean Squared Error (RMSE)
+  * Mean Percentage Error (MPE)
+
+# UML
+
+
+
 
 
