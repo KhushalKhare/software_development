@@ -28,6 +28,17 @@ For every project, whether building a Python project or making a pizza, there ar
   * Root Mean Squared Error (RMSE)
   * Mean Percentage Error (MPE)
 
+5. Preparing Data for Machine Learning:
+  * Library such as LabelEncoder from sklearn.preprocessing will convert categorical values into numerical values
+  * Use ColumnEncoder on your columns'bat_team', 'bowl_team' using LabelEncoder and OneHotEncoder
+  * train_test_split library is needed to split dataset into training and testing
+6. Machine Learning
+  * Will perform few algorithms such as Linear Regression,Random Forest Classifier, KNN Classifier to implement it we need libraries like
+    from sklearn.linear_model import LinearRegression,from sklearn.ensemble import RandomForestRegressor and from sklearn.neighbors import KNeighborsClassifier
+7. Deployment of ML Model in WebPage
+  * HTML,CSS for creating a web page
+  * TensorFlow will be used to deploy ML Model in the browser.
+
 # UML
 For someone who is not familiar with coding,he or she can't understand how this project is working so for that we have UML which stands for Unified Modeling Language 
 which describes the flow of project or how the project is working with the help of Flow Charts for example Class A then after excuting Class A it will go to Class B.
