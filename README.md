@@ -1,5 +1,15 @@
 # IPL Score Prediction 
-The IPL(Indian Premier League) Score Prediction Project aims to develop a data-driven methodology to predict the results of  matches using historical data and machine learning to provide insights to fans and participants during the IPL and predict the winner
+The IPL(Indian Premier League) Score Prediction Project aims to develop a data-driven methodology to predict the results of  matches using historical data and machine learning to provide insights to fans and participants during the IPL and predict the winner.
+
+# Table Of Content
+1. [Features of my project](https://github.com/KhushalKhare/software_development#features)
+2. [Pre-Requisites](https://github.com/KhushalKhare/software_development#prerequisites)
+3. [Code-File](https://github.com/KhushalKhare/software_development#code-file)
+4. [Dataset](https://github.com/KhushalKhare/software_development#dataset)
+5. [Requirements Engineering](https://github.com/KhushalKhare/software_development#requirement-engineering)
+6. [UML](https://github.com/KhushalKhare/software_development#uml)
+7. [DDD](https://github.com/KhushalKhare/software_development#DDD)
+
 
 # Features
 1. Team Selection: Input the names of Team A and Team B that are playing against each other.
@@ -61,7 +71,10 @@ UML for ML Models which I will be using is here for understanding basically ther
   ![Screenshot 2023-12-03 155002](https://github.com/KhushalKhare/software_development/assets/148461152/c56e3f4c-362b-4fbd-999a-a77bf8421ed1)
 
 
-
+# DDD
+DDD (Domain Driven Design) is very  similar to hosting a party or event. When understanding what you need for your domain, you can use real-world scenarios to help you understand. For example, I plan a party for my friends and think about what they need for the party: food, drinks, music, games, etc. Just like with software, you need to understand what you need from it 
+features, libraries, etc. These are my domains which are the most important parts of the software or party. These are the requirements of the party or  the software and ultimately the requirements or needs 
+we make plans. B. What food and drinks should be served at the party? Similarly, DDD creates a plan  for each piece of software, and groups may change the plan depending on the guest. Similarly, DDD changes the software plan  based on what the user needs and uses DDD's changes and adjustments to ensure that the software is useful and works well for the user.
 
 
 
