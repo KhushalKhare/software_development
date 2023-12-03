@@ -18,6 +18,8 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 
 # Prerequisites
 Install Python on your computer or Download Python from [Python Link](https://www.python.org/)
+Download Anacondas to acess jupyter notebook to write code in python here is the link [Anacondas](https://www.anaconda.com/download) or 
+We can use Google Colab Notebooks [colab](https://colab.google/)
 
 # Code File: 
 To access the code and check how I created this project the link is given Below
