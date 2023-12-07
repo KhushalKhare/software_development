@@ -78,6 +78,19 @@ DDD (Domain Driven Design) is very  similar to hosting a party or event. When un
 features, libraries, etc. These are my domains which are the most important parts of the software or party. These are the requirements of the party or  the software and ultimately the requirements or needs 
 we make plans. B. What food and drinks should be served at the party? Similarly, DDD creates a plan  for each piece of software, and groups may change the plan depending on the guest. Similarly, DDD changes the software plan  based on what the user needs and uses DDD's changes and adjustments to ensure that the software is useful and works well for the user.
 
+**domain names for the code**:
+
+IPL Predictions
+IPL Runs Predictor
+IPL Match Prediction
+IPL Analysis
+IPL Insights
+Cricket Analytics
+IPL Machine Learning
+IPL Data Science
+IPL Sports Analytics
+IPL Big Data
+
 
 
 
