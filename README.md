@@ -80,16 +80,20 @@ we make plans. B. What food and drinks should be served at the party? Similarly,
 
 **domain names for the code**:
 
-IPL Predictions
-IPL Runs Predictor
-IPL Match Prediction
-IPL Analysis
-IPL Insights
-Cricket Analytics
-IPL Machine Learning
-IPL Data Science
-IPL Sports Analytics
-IPL Big Data
+*IPL Predictions
+*IPL Runs Predictor
+*IPL Match Prediction
+*IPL Analysis
+*IPL Insights
+*Cricket Analytics
+*IPL Machine Learning
+*IPL Data Science
+*IPL Sports Analytics
+*IPL Big Data
+
+Here is my relationship chart
+![DDD](https://github.com/KhushalKhare/software_development/assets/148461152/b91b562a-9e3b-46d4-9692-395944cc9e78)
+
 
 
 
