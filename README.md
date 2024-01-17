@@ -96,6 +96,37 @@ Here is my relationship chart
 
 ![DDD](https://github.com/KhushalKhare/software_development/assets/148461152/b91b562a-9e3b-46d4-9692-395944cc9e78)
 
+## Metrics
+
+Envision you're fabricating a house. To guarantee the nature of your work and keep tabs on your development, you'd gauge different parts of the development cycle, for example, the quantity of blocks utilized, the time it takes to lay every block, and the quantity of imperfections found. These estimations are similar to computer programming measurements.
+
+Programming measurements are quantifiable measures used to assess the quality, proficiency, and adequacy of programming improvement processes. They give important experiences into the product item's attributes, the advancement group's exhibition, and the general wellbeing of the product project.
+
+**Kinds of Programming Metrics:**
+
+1. **Item Metrics:** These measurements evaluate the qualities of the product item itself, like size (lines of code), intricacy (cyclomatic intricacy), viability (code practicality record), and dependability (deformity thickness).
+
+2. **Process Metrics:** These measurements assess the product improvement process, including efficiency (number of highlights created per time), exertion (time spent on advancement), deformity infusion rate (number of imperfections presented per unit of time), and lead time (time beginning to end of an advancement task).
+
+[An illustration of software engineering metrics]
+
+Consider a group fostering a web based business stage. They track the accompanying measurements:
+
+1. **Item Metric:** Lines of code: The group screens the quantity of lines of code composed every week to survey the advancement of improvement and recognize possible areas of code duplication or swell.
+
+2. **Process Metric:** Deformity infusion rate: The group tracks the quantity of deformities presented per 100 lines of code composed. A lower deformity infusion rate demonstrates better quality control and diminished modify.
+
+Benefits of using metrics in software engineering:
+
+* **Further developed Choice Making:** Measurements give information driven experiences that assist groups with settling on informed conclusions about asset designation, process upgrades, and chance relief.
+
+* **Quality Improvement**: Recognizing potential issues from the beginning through measurements takes into account opportune redresses and counteraction of significant imperfections.
+
+*  **Process Improvement**: Following cycle measurements assists groups with recognizing shortcomings and bottlenecks, prompting further developed effectiveness and efficiency.
+
+* **Project Success:** Measurements add to a more organized and controlled improvement process, improving the probability of venture achievement.
+
+Programming measurements are fundamental instruments for programming advancement groups to guarantee the quality, productivity, and viability of their work. Teams are able to improve their processes, deliver high-quality software solutions, and make informed decisions by carefully monitoring and analyzing these metrics.
 
 
 
