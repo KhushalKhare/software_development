@@ -23,7 +23,7 @@ We can use Google Colab Notebooks [colab](https://colab.google/)
 
 # Code File: 
 To access the code and check how I created this project the link is given Below
-[IPL Score Predictor Link](https://github.com/KhushalKhare/software_development/blob/main/Python%20File/IPL_Score_Prediction%20(1).ipynb)
+[IPL Score Predictor Link](https://github.com/KhushalKhare/software_development/blob/main/Python%20File/IPL_Score_Prediction%20(2).ipynb)
 
 # Dataset
 The dataset plays a pivotal role in the project's functionality, encompassing 76,000 rows and 15 columns. Access the dataset here: [DataSet Link](https://github.com/KhushalKhare/software_development/blob/main/Data%20Set/ipl_data.csv)
