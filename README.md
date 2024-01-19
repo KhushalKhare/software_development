@@ -10,6 +10,7 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 6. [UML](https://github.com/KhushalKhare/software_development#uml)
 7. [DDD](https://github.com/KhushalKhare/software_development#DDD)
 8. [Metrics](https://github.com/KhushalKhare/software_development/tree/main?tab=readme-ov-file#metrics)
+9. [Clean Code Development](https://github.com/KhushalKhare/software_development/blob/main/Clean%20Code%20Development%20)
 
 
 # Features
