@@ -35,8 +35,7 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 - **Requirement 1.1.1:** The system must be able to load a dataset from the specified CSV file.
 - **Requirement 1.1.2:** The system must handle missing or incorrect values ​​in the dataset appropriately.
 - **Requirement 1.1.3:** The system must convert both date and #039; column to datetime format.
--
--  - **Requirement 1.1.4:** Irrelevant columns like and#039;midand#039; and#039;local and#039; and#039;batsman and#039; and#039;bowleand#039; , and#039;strikerand#039; and and#039;non-attacker#039; must be removed.
+- **Requirement 1.1.4:** Irrelevant columns like and#039;midand#039; and#039;local and#039; and#039;batsman and#039; and#039;bowleand#039; , and#039;strikerand#039; and and#039;non-attacker#039; must be removed.
 
 #### 1.2 Research and Data Analysis:
 - **Requirement 1.2.1:** The system must generate descriptive statistics from the uploaded data set.
