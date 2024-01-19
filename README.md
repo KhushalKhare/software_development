@@ -111,6 +111,8 @@ Programming measurements are quantifiable measures used to assess the quality, p
 
 ![Test3](https://app.codacy.com/gh/KhushalKhare/software_development/issues/131154737952)
 
+![Metrics](https://github.com/KhushalKhare/software_development/assets/148461152/c2c558a2-561a-4d50-821b-3c936f229fdc)
+
 
 
 
