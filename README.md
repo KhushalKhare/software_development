@@ -31,32 +31,78 @@ To access the code and check how I created this project the link is given Below
 The dataset plays a pivotal role in the project's functionality, encompassing 76,000 rows and 15 columns. Access the dataset here: [DataSet Link](https://github.com/KhushalKhare/software_development/blob/main/Data%20Set/ipl_data.csv)
 
 # Requirement Engineering 
-For every project, whether building a Python project or making a pizza, there are some requirements. For example, in my project, there are the main requirements mentioned below.
-1. Data: As we already have our data in CSV File and it contains historical IPL matches from 2008 to 2017.
-2. Tools and Resources: We need Python Programming Language,Libraries such as
-   * Pandas
-   * Numpy
-   * Matplotlib / Seaborn
-3. Domain Knowledge: Familiarity with the Indian Premier League (IPL), its teams, players, and rules of the game.Understanding of factors that influence match outcomes.
-   Knowledge of cricket analytics and how it is applied to predict match outcomes. Understanding of machine learning concepts,
-   including regression, classification, and feature engineering.
+#### 1.1 Loading and Preprocessing of Data:
+- **Requirement 1.1.1:** The system must be able to load a dataset from the specified CSV file.
+- **Requirement 1.1.2:** The system must handle missing or incorrect values ​​in the dataset appropriately.
+- **Requirement 1.1.3:** The system must convert both date and #039; column to datetime format.
+-
+-  - **Requirement 1.1.4:** Irrelevant columns like and#039;midand#039; and#039;local and#039; and#039;batsman and#039; and#039;bowleand#039; , and#039;strikerand#039; and and#039;non-attacker#039; must be removed.
 
-4. Evaluation Metrics:
-  * Mean Absolute Error (MAE)
-  * Root Mean Squared Error (RMSE)
-  * Mean Percentage Error (MPE)
+#### 1.2 Research and Data Analysis:
+- **Requirement 1.2.1:** The system must generate descriptive statistics from the uploaded data set.
+- **Requirement 1.2.2:** The system must visualize the distribution of walks and runs using appropriate graphs.
+- **Condition 1.2.3:** Only include matches with even teams (as defined in the code).
 
-5. Preparing Data for Machine Learning:
-  * Library such as LabelEncoder from sklearn.preprocessing will convert categorical values into numerical values
-  * Use ColumnEncoder on your columns'bat_team', 'bowl_team' using LabelEncoder and OneHotEncoder
-  * train_test_split library is needed to split dataset into training and testing
-6. Machine Learning
-  * Will perform few algorithms such as Linear Regression,Random Forest Classifier, KNN Classifier to implement it we need libraries like
-    from sklearn.linear_model import LinearRegression,from sklearn.ensemble import RandomForestRegressor and from sklearn.neighbors import KNeighborsClassifier
-7. Deployment of ML Model in WebPage
-  * HTML,CSS for creating a web page
-  * TensorFlow will be used to deploy ML Model in the browser.
-8. Further More Details Here is a link of Trello Software which timelines and how much progress is completed here is the link [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
+#### 1.3 Data Cleanup:
+- **Condition 1.3.1:** Inconsistent teams must be removed from the dataset.
+- **Condition 1.3.2:** Matches with less than 5 transitions should be removed from dataset.
+
+#### 1.4 Machine Learning Model:
+- **Requirement 1.4.1:** The system must be able to train and evaluate decision tree, linear regression, and random forest regression models.
+- **Requirement 1.4.2:** Evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE) and RMSE (Root Mean Squared Error) must be calculated.
+- ** Requirement 1.4.3:** Trained models must be able to predict.
+-
+-  #### 1.5 Prediction Function:
+- **Requirement 1.5.1:** The system must have a function to predict results based on given input parameters like batting team, bowling team, innings, runs, score, runs_last_5 and wickets_last_5.
+
+### 2. Non-functional requirements:
+
+#### 2.1 Usability:
+- ** Requirement 2.1.1:** The system must provide clear and concise documentation of the use of the prediction function.
+- ** Requirement 2.1.2:** The user interface (if present) must be user-friendly.
+
+#### 2.2 Performance:
+- **Requirement 2.2.1:** The system must efficiently handle large data sets.
+- ** Requirement 2.2.2:** Predictive response time must be reasonable for a given set of input parameters.
+
+#### 2.3 Reliability:
+- **Requirement 2.3.1:** The system must handle errors gracefully and provide informative error messages.
+- **Requirement 2.3.2:** The prediction function must be reliable and consistent.
+
+#### 2.4 Extensibility:
+- **Requirement 2.4.1:** The system must allow easy addition of new functions or models.
+- ** Requirement 2.4.2:** Code must be modular and well organized for easy maintenance.
+
+### 3. Documentation:
+
+#### 3.1 Code Documentation:
+- **Condition 3.1.1:** All code must be properly documented and explain the purpose and functionality of each item.
+- **Requirement 3.1.2:** Include inline comments for complex logic or unusual approaches.
+
+#### 3.2 User Documentation:
+- **Requirement 3.2.1:** Provide a user manual that explains how to run the code and use the prediction function.
+- **Requirement 3.2.2:** Add examples to illustrate the predict function and its usage.
+
+### 4. Testing:
+
+#### 4.1 Hardware Testing:
+- ** Requirement 4.1.1:** Carry out hardware tests to verify the correctness of individual functions and components.
+- **Requirement 4.1.2:** Ensure machine learning models produce expected results.
+
+#### 4.2 Integration testing:
+- ** Requirement 4.2.1:** Perform integration tests to ensure that the various components of the system work well together.
+
+### 5. Security:
+
+#### 5.1 Privacy:
+- **Condition 5.1.1:** Ensure that all sensitive or personal information is handled securely.
+- **Condition 5.1.2:** Enable data anonymization if necessary.
+
+### 6. Deployment:
+
+#### 6.1 Deployment Script:
+- **Requirement 6.1.1:** Provide a script or instructions for deploying the system to various environments.
+-  [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
 
 
 # UML
