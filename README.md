@@ -57,12 +57,12 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 ### 2. Non-functional requirements:
 
 #### 2.1 Usability:
-- ** Requirement 2.1.1:** The system must provide clear and concise documentation of the use of the prediction function.
-- ** Requirement 2.1.2:** The user interface (if present) must be user-friendly.
+- **Requirement 2.1.1:** The system must provide clear and concise documentation of the use of the prediction function.
+- **Requirement 2.1.2:** The user interface (if present) must be user-friendly.
 
 #### 2.2 Performance:
 - **Requirement 2.2.1:** The system must efficiently handle large data sets.
-- ** Requirement 2.2.2:** Predictive response time must be reasonable for a given set of input parameters.
+- **Requirement 2.2.2:** Predictive response time must be reasonable for a given set of input parameters.
 
 #### 2.3 Reliability:
 - **Requirement 2.3.1:** The system must handle errors gracefully and provide informative error messages.
@@ -70,7 +70,7 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 
 #### 2.4 Extensibility:
 - **Requirement 2.4.1:** The system must allow easy addition of new functions or models.
-- ** Requirement 2.4.2:** Code must be modular and well organized for easy maintenance.
+- **Requirement 2.4.2:** Code must be modular and well organized for easy maintenance.
 
 ### 3. Documentation:
 
@@ -85,11 +85,11 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 ### 4. Testing:
 
 #### 4.1 Hardware Testing:
-- ** Requirement 4.1.1:** Carry out hardware tests to verify the correctness of individual functions and components.
+- **Requirement 4.1.1:** Carry out hardware tests to verify the correctness of individual functions and components.
 - **Requirement 4.1.2:** Ensure machine learning models produce expected results.
 
 #### 4.2 Integration testing:
-- ** Requirement 4.2.1:** Perform integration tests to ensure that the various components of the system work well together.
+- **Requirement 4.2.1:** Perform integration tests to ensure that the various components of the system work well together.
 
 ### 5. Security:
 
