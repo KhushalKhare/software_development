@@ -108,16 +108,19 @@ Here is my relationship chart
 
 ## Metrics
 
-Envision you're fabricating a house. To guarantee the nature of your work and keep tabs on your development, you'd gauge different parts of the development cycle, for example, the quantity of blocks utilized, the time it takes to lay every block, and the quantity of imperfections found. These estimations are similar to computer programming measurements.
-
-Programming measurements are quantifiable measures used to assess the quality, proficiency, and adequacy of programming improvement processes. They give important experiences into the product item's attributes, the advancement group's exhibition, and the general wellbeing of the product project. Here are the Metrics for my code 
-
 Screenshot for above
 
 ![Screenshot 2024-01-19 151725](https://github.com/KhushalKhare/software_development/assets/148461152/346f25ef-5d54-4fd7-a152-5a5988f0c39c)
 
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1)
+
+## Clean Code Development
+
+Clean code advancement alludes to composing code that is not difficult to peruse, straightforward, and simple to keep up with. The objective is to deliver code that capabilities accurately as well as efficient, productive, and follows best practices. Clean code resembles an efficient and indisputable recipe; it's simple for anybody to follow and comprehend. 
+
+Here is my PDF that states why my code is clean [Clean Code Development.pdf](https://github.com/KhushalKhare/software_development/files/13990896/Clean.Code.Development.pdf)
+
 
 
 
