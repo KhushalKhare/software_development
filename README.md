@@ -96,11 +96,6 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 #### 5.1 Privacy:
 - **Condition 5.1.1:** Ensure that all sensitive or personal information is handled securely.
 - **Condition 5.1.2:** Enable data anonymization if necessary.
-
-### 6. Deployment:
-
-#### 6.1 Deployment Script:
-- **Requirement 6.1.1:** Provide a script or instructions for deploying the system to various environments.
 -  [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
 
 
