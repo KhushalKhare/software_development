@@ -100,7 +100,17 @@ Here is my relationship chart
 
 Envision you're fabricating a house. To guarantee the nature of your work and keep tabs on your development, you'd gauge different parts of the development cycle, for example, the quantity of blocks utilized, the time it takes to lay every block, and the quantity of imperfections found. These estimations are similar to computer programming measurements.
 
-Programming measurements are quantifiable measures used to assess the quality, proficiency, and adequacy of programming improvement processes. They give important experiences into the product item's attributes, the advancement group's exhibition, and the general wellbeing of the product project.
+Programming measurements are quantifiable measures used to assess the quality, proficiency, and adequacy of programming improvement processes. They give important experiences into the product item's attributes, the advancement group's exhibition, and the general wellbeing of the product project. Here are the Metrics for my code 
+
+
+![Test1](https://app.codacy.com/gh/KhushalKhare/software_development/issues/131154737953)
+
+![Test2](https://app.codacy.com/gh/KhushalKhare/software_development/issues/131154737955)
+
+![Test3](https://app.codacy.com/gh/KhushalKhare/software_development/issues/131154737952)
+
+
+
 
 
 
