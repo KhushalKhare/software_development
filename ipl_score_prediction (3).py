@@ -12,7 +12,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-"""**Loading the Dataset**"""
+
 
 df=pd.read_csv('/content/ipl_data.csv')
 df.head()
@@ -25,7 +25,7 @@ df['date'] = pd.to_datetime(df['date'])
 
 df.info()
 
-"""**Exploratory Data Analysis**"""
+
 
 df.describe()
 
@@ -46,7 +46,6 @@ plt.title("Runs Distribution")
 
 plt.show()
 
-"""**Data Cleaning**"""
 
 df.columns
 
@@ -96,10 +95,7 @@ df = pd.DataFrame(df, columns=cols)
 
 df.head()
 
-"""**Preparing dataset for machine learning**
 
-**Machine Learning**
-"""
 
 features = df.drop(['total'], axis=1)
 labels = df['total']
@@ -139,48 +135,27 @@ print("Mean Absolute Error (MAE): {}".format(mae(test_labels, forest.predict(tes
 print("Mean Squared Error (MSE): {}".format(mse(test_labels, forest.predict(test_features))))
 print("Root Mean Squared Error (RMSE): {}".format(np.sqrt(mse(test_labels, forest.predict(test_features)))))
 
-"""## Prediction"""
 
 def score_predict(batting_team, bowling_team, runs, wickets, overs, runs_last_5, wickets_last_5, model=forest):
-  prediction_array = []
-  # Batting Team
-  if batting_team == 'Chennai Super Kings':
-    prediction_array = prediction_array + [1,0,0,0,0,0,0,0]
-  elif batting_team == 'Delhi Daredevils':
-    prediction_array = prediction_array + [0,1,0,0,0,0,0,0]
-  elif batting_team == 'Kings XI Punjab':
-    prediction_array = prediction_array + [0,0,1,0,0,0,0,0]
-  elif batting_team == 'Kolkata Knight Riders':
-    prediction_array = prediction_array + [0,0,0,1,0,0,0,0]
-  elif batting_team == 'Mumbai Indians':
-    prediction_array = prediction_array + [0,0,0,0,1,0,0,0]
-  elif batting_team == 'Rajasthan Royals':
-    prediction_array = prediction_array + [0,0,0,0,0,1,0,0]
-  elif batting_team == 'Royal Challengers Bangalore':
-    prediction_array = prediction_array + [0,0,0,0,0,0,1,0]
-  elif batting_team == 'Sunrisers Hyderabad':
-    prediction_array = prediction_array + [0,0,0,0,0,0,0,1]
-  # Bowling Team
-  if bowling_team == 'Chennai Super Kings':
-    prediction_array = prediction_array + [1,0,0,0,0,0,0,0]
-  elif bowling_team == 'Delhi Daredevils':
-    prediction_array = prediction_array + [0,1,0,0,0,0,0,0]
-  elif bowling_team == 'Kings XI Punjab':
-    prediction_array = prediction_array + [0,0,1,0,0,0,0,0]
-  elif bowling_team == 'Kolkata Knight Riders':
-    prediction_array = prediction_array + [0,0,0,1,0,0,0,0]
-  elif bowling_team == 'Mumbai Indians':
-    prediction_array = prediction_array + [0,0,0,0,1,0,0,0]
-  elif bowling_team == 'Rajasthan Royals':
-    prediction_array = prediction_array + [0,0,0,0,0,1,0,0]
-  elif bowling_team == 'Royal Challengers Bangalore':
-    prediction_array = prediction_array + [0,0,0,0,0,0,1,0]
-  elif bowling_team == 'Sunrisers Hyderabad':
-    prediction_array = prediction_array + [0,0,0,0,0,0,0,1]
-  prediction_array = prediction_array + [runs, wickets, overs, runs_last_5, wickets_last_5]
-  prediction_array = np.array([prediction_array])
-  pred = model.predict(prediction_array)
-  return int(round(pred[0]))
+    team_encoding = {
+        'Chennai Super Kings': [1, 0, 0, 0, 0, 0, 0, 0],
+        'Delhi Daredevils': [0, 1, 0, 0, 0, 0, 0, 0],
+        'Kings XI Punjab': [0, 0, 1, 0, 0, 0, 0, 0],
+        'Kolkata Knight Riders': [0, 0, 0, 1, 0, 0, 0, 0],
+        'Mumbai Indians': [0, 0, 0, 0, 1, 0, 0, 0],
+        'Rajasthan Royals': [0, 0, 0, 0, 0, 1, 0, 0],
+        'Royal Challengers Bangalore': [0, 0, 0, 0, 0, 0, 1, 0],
+        'Sunrisers Hyderabad': [0, 0, 0, 0, 0, 0, 0, 1],
+    }
+
+    prediction_array = np.array([
+        *team_encoding.get(batting_team, [0, 0, 0, 0, 0, 0, 0, 0]),
+        *team_encoding.get(bowling_team, [0, 0, 0, 0, 0, 0, 0, 0]),
+        runs, wickets, overs, runs_last_5, wickets_last_5
+    ]).reshape(1, -1)
+
+    pred = model.predict(prediction_array)
+    return int(round(pred[0]))
 
 """## Test 1"""
 
