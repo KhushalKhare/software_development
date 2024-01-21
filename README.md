@@ -40,7 +40,7 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 #### 1.2 Research and Data Analysis:
 - **Requirement 1.2.1:** The system must generate descriptive statistics from the uploaded data set.
 - **Requirement 1.2.2:** The system must visualize the distribution of walks and runs using appropriate graphs.
-- **Condition 1.2.3:** Only include matches with even teams (as defined in the code).
+
 
 #### 1.3 Data Cleanup:
 - **Condition 1.3.1:** Inconsistent teams must be removed from the dataset.
@@ -55,49 +55,28 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 - **Requirement 1.5.1:** The system must have a function to predict results based on given input parameters like batting team, bowling team, innings, runs, score, runs_last_5 and wickets_last_5.
 
 ### 2. Non-functional requirements:
-
-#### 2.1 Usability:
 - **Requirement 2.1.1:** The system must provide clear and concise documentation of the use of the prediction function.
 - **Requirement 2.1.2:** The user interface (if present) must be user-friendly.
-
-#### 2.2 Performance:
 - **Requirement 2.2.1:** The system must efficiently handle large data sets.
 - **Requirement 2.2.2:** Predictive response time must be reasonable for a given set of input parameters.
-
-#### 2.3 Reliability:
 - **Requirement 2.3.1:** The system must handle errors gracefully and provide informative error messages.
 - **Requirement 2.3.2:** The prediction function must be reliable and consistent.
-
-#### 2.4 Extensibility:
 - **Requirement 2.4.1:** The system must allow easy addition of new functions or models.
 - **Requirement 2.4.2:** Code must be modular and well organized for easy maintenance.
 
 ### 3. Documentation:
 
-#### 3.1 Code Documentation:
-- **Condition 3.1.1:** All code must be properly documented and explain the purpose and functionality of each item.
-- **Requirement 3.1.2:** Include inline comments for complex logic or unusual approaches.
-
-#### 3.2 User Documentation:
+- **Requirement 3.1.1:** Include inline comments for complex logic or unusual approaches.
 - **Requirement 3.2.1:** Provide a user manual that explains how to run the code and use the prediction function.
 - **Requirement 3.2.2:** Add examples to illustrate the predict function and its usage.
 
 ### 4. Testing:
-
-#### 4.1 Hardware Testing:
 - **Requirement 4.1.1:** Carry out hardware tests to verify the correctness of individual functions and components.
 - **Requirement 4.1.2:** Ensure machine learning models produce expected results.
-
-#### 4.2 Integration testing:
 - **Requirement 4.2.1:** Perform integration tests to ensure that the various components of the system work well together.
 
-### 5. Security:
-
-#### 5.1 Privacy:
-- **Condition 5.1.1:** Ensure that all sensitive or personal information is handled securely.
-- **Condition 5.1.2:** Enable data anonymization if necessary.
--  [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
--  [Monday](https://khushalkhrs-team-company.monday.com/boards/1371201419)
+  [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
+  [Monday](https://khushalkhrs-team-company.monday.com/boards/1371201419)
 
 
 # UML
