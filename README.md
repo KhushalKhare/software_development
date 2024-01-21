@@ -97,6 +97,7 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 - **Condition 5.1.1:** Ensure that all sensitive or personal information is handled securely.
 - **Condition 5.1.2:** Enable data anonymization if necessary.
 -  [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
+-  [Monday](https://khushalkhrs-team-company.monday.com/boards/1371201419)
 
 
 # UML
@@ -158,7 +159,7 @@ Screenshot for above
 
 ## Clean Code Development
 
-Clean code advancement alludes to composing code that is not difficult to peruse, straightforward, and simple to keep up with. The objective is to deliver code that capabilities accurately as well as efficient, productive, and follows best practices. Clean code resembles an efficient and indisputable recipe; it's simple for anybody to follow and comprehend. 
+Clean Code Development refers to writing code that is easy to read, understand, and maintain. Delivering code that is correct, productive, efficient, and adheres to best practices is the goal. Clean code is easy for everyone to follow and understand; it's like an effective and unquestionable recipe. 
 
 Here is my PDF that states why my code is clean [Clean Code Development.pdf](https://github.com/KhushalKhare/software_development/blob/main/Clean%20Code%20Development%20(2).pdf)
 
