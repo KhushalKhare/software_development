@@ -152,7 +152,7 @@ Screenshot for above
 
 Clean Code Development refers to writing code that is easy to read, understand, and maintain. Delivering code that is correct, productive, efficient, and adheres to best practices is the goal. Clean code is easy for everyone to follow and understand; it's like an effective and unquestionable recipe. 
 
-Here is my PDF that states why my code is clean [Clean Code Development.pdf](https://github.com/KhushalKhare/software_development/blob/main/Clean%20Code%20Development%20(2).pdf)
+Here is my PDF that states why my code is clean [Clean Code Development.pdf](https://github.com/KhushalKhare/software_development/blob/main/Clean%20Code%20Development%20(3).pdf)
 
 
 
