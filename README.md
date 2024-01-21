@@ -146,7 +146,19 @@ we make plans. B. What food and drinks should be served at the party? Similarly,
 Here is my relationship chart
 
 
-![DDD](https://github.com/KhushalKhare/software_development/assets/148461152/b91b562a-9e3b-46d4-9692-395944cc9e78)
+Relational Diagram 
+
+![Relational Diagram](https://github.com/KhushalKhare/software_development/assets/148461152/b91b562a-9e3b-46d4-9692-395944cc9e78)
+
+Core Domain
+
+![Core Domain](https://github.com/KhushalKhare/software_development/assets/148461152/6c240a36-566c-4a54-a4b8-0aedacb5d1cb)
+
+Event Storming
+
+![Event Storming](https://github.com/KhushalKhare/software_development/assets/148461152/bea2d12d-50bc-4bc7-8a78-732b5b192ff8)
+
+
 
 ## Metrics
 
