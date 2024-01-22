@@ -31,52 +31,10 @@ To access the code and check how I created this project the link is given Below
 The dataset plays a pivotal role in the project's functionality, encompassing 76,000 rows and 15 columns. Access the dataset here: [DataSet Link](https://github.com/KhushalKhare/software_development/blob/main/Data%20Set/ipl_data.csv)
 
 # Requirement Engineering 
-#### 1.1 Loading and Preprocessing of Data:
-- **Requirement 1.1.1:** The system must be able to load a dataset from the specified CSV file.
-- **Requirement 1.1.2:** The system must handle missing or incorrect values ​​in the dataset appropriately.
-- **Requirement 1.1.3:** The system must convert both date and #039; column to datetime format.
-- **Requirement 1.1.4:** Irrelevant columns like and#039;midand#039; and#039;local and#039; and#039;batsman and#039; and#039;bowleand#039; , and#039;strikerand#039; and and#039;non-attacker#039; must be removed.
-
-#### 1.2 Research and Data Analysis:
-- **Requirement 1.2.1:** The system must generate descriptive statistics from the uploaded data set.
-- **Requirement 1.2.2:** The system must visualize the distribution of walks and runs using appropriate graphs.
-
-
-#### 1.3 Data Cleanup:
-- **Condition 1.3.1:** Inconsistent teams must be removed from the dataset.
-- **Condition 1.3.2:** Matches with less than 5 transitions should be removed from dataset.
-
-#### 1.4 Machine Learning Model:
-- **Requirement 1.4.1:** The system must be able to train and evaluate decision tree, linear regression, and random forest regression models.
-- **Requirement 1.4.2:** Evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE) and RMSE (Root Mean Squared Error) must be calculated.
-- ** Requirement 1.4.3:** Trained models must be able to predict.
--
--  #### 1.5 Prediction Function:
-- **Requirement 1.5.1:** The system must have a function to predict results based on given input parameters like batting team, bowling team, innings, runs, score, runs_last_5 and wickets_last_5.
-
-### 2. Non-functional requirements:
-- **Requirement 2.1.1:** The system must provide clear and concise documentation of the use of the prediction function.
-- **Requirement 2.1.2:** The user interface (if present) must be user-friendly.
-- **Requirement 2.2.1:** The system must efficiently handle large data sets.
-- **Requirement 2.2.2:** Predictive response time must be reasonable for a given set of input parameters.
-- **Requirement 2.3.1:** The system must handle errors gracefully and provide informative error messages.
-- **Requirement 2.3.2:** The prediction function must be reliable and consistent.
-- **Requirement 2.4.1:** The system must allow easy addition of new functions or models.
-- **Requirement 2.4.2:** Code must be modular and well organized for easy maintenance.
-
-### 3. Documentation:
-
-- **Requirement 3.1.1:** Include inline comments for complex logic or unusual approaches.
-- **Requirement 3.2.1:** Provide a user manual that explains how to run the code and use the prediction function.
-- **Requirement 3.2.2:** Add examples to illustrate the predict function and its usage.
-
-### 4. Testing:
-- **Requirement 4.1.1:** Carry out hardware tests to verify the correctness of individual functions and components.
-- **Requirement 4.1.2:** Ensure machine learning models produce expected results.
-- **Requirement 4.2.1:** Perform integration tests to ensure that the various components of the system work well together.
-
-  [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
-  [Monday](https://khushalkhrs-team-company.monday.com/boards/1371201419)
+For Professional Variant 
+[Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
+For Personal Variant
+[Monday](https://khushalkhrs-team-company.monday.com/boards/1371201419)
 
 
 # UML
@@ -152,7 +110,8 @@ Screenshot for above
 
 Clean Code Development refers to writing code that is easy to read, understand, and maintain. Delivering code that is correct, productive, efficient, and adheres to best practices is the goal. Clean code is easy for everyone to follow and understand; it's like an effective and unquestionable recipe. 
 
-Here is my PDF that states why my code is clean [Clean Code Development.pdf](https://github.com/KhushalKhare/software_development/blob/main/Clean%20Code%20Development%20(3).pdf)
+Here is my PDF that states why my code is clean 
+[Clean Code Development.pdf](https://github.com/KhushalKhare/software_development/blob/main/Clean%20Code%20Development%20(3).pdf)
 
 
 
