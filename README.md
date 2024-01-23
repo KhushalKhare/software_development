@@ -12,7 +12,7 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 8. [Metrics](https://github.com/KhushalKhare/software_development/tree/main?tab=readme-ov-file#metrics)
 9. [Clean Code Development](https://github.com/KhushalKhare/software_development?tab=readme-ov-file#clean-code-development)
 10. [Unit Tests](https://github.com/KhushalKhare/software_development/blob/main/README.md#testing-and-test-units)
-11. [Build Management]()
+11. [Build Management](https://github.com/KhushalKhare/software_development/tree/main?tab=readme-ov-file#build-management)
 
 # Features
 1. Team Selection: Input the names of Team A and Team B that are playing against each other.
