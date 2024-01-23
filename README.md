@@ -67,7 +67,8 @@ Class Diagram
 Activity Diagram
 
 
-![Activity Diagram](https://github.com/KhushalKhare/software_development/assets/148461152/948b4280-aab7-4885-b609-fea10816d119)
+![Activity Diagram](https://github.com/KhushalKhare/software_development/assets/148461152/cad3c7b6-b1c1-42a1-b769-3f08a6d86dda)
+
 
 Use Case Diagram
 
