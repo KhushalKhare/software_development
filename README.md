@@ -138,6 +138,13 @@ For my project, I used PyBuilder tool to check my build and build is sucessful h
 
 ![Build Management](https://github.com/KhushalKhare/software_development/assets/148461152/ed5113e3-714a-48ff-8f67-6a7677e13e10)
 
+## Functional Programming 
+
+Writing computer programs in the functional programming style avoids using mutable and changing-state data, instead treating computation as the evaluation of mathematical functions. To put it another way, it's style of designing code where the emphasis is on articulating the desired outcome rather than the specifics of how to get there.
+
+Here is the code file that has demonstrated functional programming concept 
+
+[Functional Programming](https://github.com/KhushalKhare/software_development/blob/main/Functional%20Programming/functional_programming.py)
 
 
 
