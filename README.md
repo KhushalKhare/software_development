@@ -132,6 +132,10 @@ Here is my Test File [Testing File](https://github.com/KhushalKhare/software_dev
 In software development, the process of assembling and compiling source code into an executable or deployable form is known as build management. It entails activities including managing dependencies, assembling source code, and producing the finished product that may be tested or given to customers. 
 
 For my project, I used PyBuilder tool to check my build and build is sucessful here is the screenshot attached 
+
+
+[Command promts](https://github.com/KhushalKhare/software_development/blob/main/Build%20Management/commandprompt)
+
 ![Build Management](https://github.com/KhushalKhare/software_development/assets/148461152/ed5113e3-714a-48ff-8f67-6a7677e13e10)
 
 
