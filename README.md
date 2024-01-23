@@ -44,17 +44,23 @@ For Personal Variant
 # UML
 For someone who is not familiar with coding,he or she can't understand how this project is working so for that we have UML which stands for Unified Modeling Language 
 which describes the flow of project or how the project is working with the help of Flow Charts for example Class A then after excuting Class A it will go to Class B.
-Since I have done only 50% of my code so till the part I have finished my code here the UML for this is here ![Screenshot 2023-11-30 224128](https://github.com/KhushalKhare/software_development/assets/148461152/a1c6787e-81c9-4e62-9bd2-9cb5695763d4)
-UML for how our dataset is prepared for ML is here our step is to convert categorical values to numeric and here is the diagram![Screenshot 2023-12-03 154125](https://github.com/KhushalKhare/software_development/assets/148461152/3bb08b00-0343-48f0-b151-0359279b1ddc)
+Since I have done only 50% of my code so till the part I have finished my code here the UML for this is here
 
-UML for ML Models which I will be using is here for understanding basically there are Three Models 
-* Linear Regression
+Class Diagram
 
-  ![Screenshot 2023-12-03 154804](https://github.com/KhushalKhare/software_development/assets/148461152/35c00314-428b-4782-b313-101685b88007)
 
-* Random Forest
-  
-  ![Screenshot 2023-12-03 155002](https://github.com/KhushalKhare/software_development/assets/148461152/c56e3f4c-362b-4fbd-999a-a77bf8421ed1)
+![Class Diagram](https://github.com/KhushalKhare/software_development/assets/148461152/246fb4df-fa56-4ae8-94f7-c4d9eaac627e)
+
+Activity Diagram
+
+
+![Activity Diagram](https://github.com/KhushalKhare/software_development/assets/148461152/948b4280-aab7-4885-b609-fea10816d119)
+
+Use Case Diagram
+
+
+![Use-Case Diagram](https://github.com/KhushalKhare/software_development/assets/148461152/0526e0cb-051c-40a8-b0cf-7c647e2f18ef)
+
 
 
 # DDD
