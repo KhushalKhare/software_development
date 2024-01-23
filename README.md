@@ -99,13 +99,14 @@ Event Storming
 
 
 ## Metrics
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1)
 
+Screenshot
+
+The Badge screenshot if in the future the links for batch gets expired.
 Screenshot for above
 
 ![Screenshot 2024-01-19 151725](https://github.com/KhushalKhare/software_development/assets/148461152/346f25ef-5d54-4fd7-a152-5a5988f0c39c)
-
-
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=bugs)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=KhushalKhare_Test1&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=KhushalKhare_Test1)
 
 ## Clean Code Development
 
