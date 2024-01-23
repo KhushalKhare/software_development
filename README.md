@@ -14,6 +14,7 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 10. [Unit Tests](https://github.com/KhushalKhare/software_development/blob/main/README.md#testing-and-test-units)
 11. [Build Management](https://github.com/KhushalKhare/software_development/tree/main?tab=readme-ov-file#build-management)
 12. [Functional Programming](https://github.com/KhushalKhare/software_development/blob/main/README.md#functional-programming)
+13. [Usage]()
 
 # Features
 1. Team Selection: Input the names of Team A and Team B that are playing against each other.
@@ -163,6 +164,58 @@ Writing computer programs in the functional programming style avoids using mutab
 Here is the code file that has demonstrated functional programming concept 
 
 [Functional Programming](https://github.com/KhushalKhare/software_development/blob/main/Functional%20Programming/functional_programming.py)
+
+## Usage 
+
+## IPL Score Prediction
+Delve into the core of our application through the IPL Score Card Prediction Personality Quiz. Users embark on a curated journey of scenario-based questions, offering responses that serve as the building blocks for unveiling their distinctive personality profile. Get ready to uncover the intricate layers of your cricket intuition as you predict IPL scorecards with a touch of personalized flair.
+
+## Web App Implementation
+Crafting Experiences with Flask and HTML
+
+Our web application comes to life with the dynamic duo of Python's Flask framework and HTML. Flask provides a robust foundation for web development, while HTML shapes the user interface, creating an immersive and intuitive experience.
+
+## IDE and ShortCut
+
+IDE : Choosing an IDE depends on personal preference and the programming language So for me as Python user it was either of these Pycharm, VSCode, Google Colab.
+
+Shortcuts : The best shortcuts depend on what you need and want to do, but here are some of the ones I use all the time and are easy to remember.
+
+PyCharm:
+
+Key Shortcuts:
+
+Ctrl + Space: Auto-complete code.
+
+Ctrl + Alt + L (Windows/Linux) or Cmd + Alt + L (Mac): Reformat code.
+
+Ctrl + Shift + A (Windows/Linux) or Cmd + Shift + A (Mac): Find actions and commands.
+
+Ctrl + E (Windows/Linux) or Cmd + E (Mac): Recent files.
+
+Ctrl + Shift + F10 (Windows/Linux) or Shift + Cmd + F10 (Mac): Run the script.
+
+VSCode:
+
+Key Shortcuts:
+
+Ctrl + Space: Auto-complete code.
+
+Alt + Shift + F: Reformat code.
+
+Ctrl + P: Quick file navigation.
+
+Ctrl + `: Open the integrated terminal.
+
+F5: Run the script.
+
+## Conclusion
+
+Unleash the thrill of IPL Score Card Prediction, where personalized insights meet cricket anticipation for an unparalleled gaming experience.
+
+## License
+
+This project is privately owned by Khushal Khare Master's student in Artificial Intelligence from SRH University Berlin
 
 
 
