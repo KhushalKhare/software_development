@@ -35,6 +35,17 @@ The dataset plays a pivotal role in the project's functionality, encompassing 76
 # Requirement Engineering 
 The process of gathering, documenting, and managing the requirements and expectations of stakeholders for a system or product is known as requirements engineering. The objective is to obviously characterize what the framework or item ought to do, guaranteeing that engineers get it and can meet those prerequisites.
 
+
+
+![Trello](https://github.com/KhushalKhare/software_development/assets/148461152/5e897d54-ba90-42d1-8d25-b89c777101a8)
+
+
+
+![Monday](https://github.com/KhushalKhare/software_development/assets/148461152/ef1719d6-8ce7-489f-8c85-bdf19cb75830)
+
+
+
+
 For Professional Variant 
 [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
 For Personal Variant
