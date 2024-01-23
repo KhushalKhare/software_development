@@ -114,8 +114,8 @@ Clean Code Development refers to writing code that is easy to read, understand, 
 
 Here is my PDF that states why my code is clean 
 
-[Clean Code Development.pdf]([Clean Code Development (4).pdf](https://github.com/KhushalKhare/software_development/files/14016577/Clean.Code.Development.4.pdf)
-)
+[Clean Code Development (4).pdf](https://github.com/KhushalKhare/software_development/files/14016577/Clean.Code.Development.4.pdf)
+
 
 ## Testing and Test Units
 
