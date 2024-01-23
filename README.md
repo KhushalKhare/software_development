@@ -12,7 +12,7 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 8. [Metrics](https://github.com/KhushalKhare/software_development/tree/main?tab=readme-ov-file#metrics)
 9. [Clean Code Development](https://github.com/KhushalKhare/software_development?tab=readme-ov-file#clean-code-development)
 10. [Unit Tests](https://github.com/KhushalKhare/software_development/blob/main/README.md#testing-and-test-units)
-
+11. [Build Management]()
 
 # Features
 1. Team Selection: Input the names of Team A and Team B that are playing against each other.
@@ -126,6 +126,13 @@ In computer programming, testing is a pivotal cycle to guarantee that a product 
 Here is my Test File [Testing File](https://github.com/KhushalKhare/software_development/blob/main/Testing/test_units%20(1).py) 
 
 ![Test Cases Run](https://github.com/KhushalKhare/software_development/assets/148461152/3d4b2c30-7301-4c58-b2b9-40d5032c4cb3)
+
+## Build Management 
+
+In software development, the process of assembling and compiling source code into an executable or deployable form is known as build management. It entails activities including managing dependencies, assembling source code, and producing the finished product that may be tested or given to customers. 
+
+For my project, I used PyBuilder tool to check my build and build is sucessful here is the screenshot attached 
+![Build Management](https://github.com/KhushalKhare/software_development/assets/148461152/ed5113e3-714a-48ff-8f67-6a7677e13e10)
 
 
 
