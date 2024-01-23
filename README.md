@@ -32,6 +32,8 @@ To access the code and check how I created this project the link is given Below
 The dataset plays a pivotal role in the project's functionality, encompassing 76,000 rows and 15 columns. Access the dataset here: [DataSet Link](https://github.com/KhushalKhare/software_development/blob/main/Data%20Set/ipl_data.csv)
 
 # Requirement Engineering 
+The process of gathering, documenting, and managing the requirements and expectations of stakeholders for a system or product is known as requirements engineering. The objective is to obviously characterize what the framework or item ought to do, guaranteeing that engineers get it and can meet those prerequisites.
+
 For Professional Variant 
 [Trello](https://trello.com/b/EDFAf9j3/ipl-score-card)
 For Personal Variant
