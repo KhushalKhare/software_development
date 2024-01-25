@@ -9,7 +9,7 @@ The IPL(Indian Premier League) Score Prediction Project aims to develop a data-d
 5. [Requirements Engineering](https://github.com/KhushalKhare/software_development#requirement-engineering)
 6. [UML](https://github.com/KhushalKhare/software_development#uml)
 7. [DDD](https://github.com/KhushalKhare/software_development#DDD)
-8. [Analysis]()
+8. [Analysis](https://github.com/KhushalKhare/software_development?tab=readme-ov-file#analysis)
 9. [Metrics](https://github.com/KhushalKhare/software_development/tree/main?tab=readme-ov-file#metrics)
 10. [Clean Code Development](https://github.com/KhushalKhare/software_development?tab=readme-ov-file#clean-code-development)
 11. [Unit Tests](https://github.com/KhushalKhare/software_development/blob/main/README.md#testing-and-test-units)
@@ -125,6 +125,7 @@ Event Storming
 The analysis phase in software engineering involves understanding and examining a problem or a set of requirements before designing and building a solution. It's like investigating and planning before you start constructing a building.
 
 [Checklist](https://woolly-galaxy-9de.notion.site/CheckList-6f5f8a42600f462faeb8bd3010fff8e8?pvs=4)
+
 [Analysis of Code](https://woolly-galaxy-9de.notion.site/Analysis-for-IPL-Score-Card-Prediction-07bd105124cb424baf1e0ce8632dbd0e?pvs=4)
 
 
