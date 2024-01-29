@@ -178,6 +178,8 @@ Here is the code file that has demonstrated functional programming concept
 2. [Side-Effect-Free Functions](https://github.com/KhushalKhare/software_development/blob/0ceeca9061e28a0b5fc29923efcb3454e340bdbe/Functional%20Programming/functional_programming.py#L8)
 3. [Higher-Order Functions](https://github.com/KhushalKhare/software_development/blob/0ceeca9061e28a0b5fc29923efcb3454e340bdbe/Functional%20Programming/functional_programming.py#L18)
 4. [Functions as Parameters](https://github.com/KhushalKhare/software_development/blob/0ceeca9061e28a0b5fc29923efcb3454e340bdbe/Functional%20Programming/functional_programming.py#L26)
+5. [Closures / Anonymous Functions](https://github.com/KhushalKhare/software_development/blob/0ceeca9061e28a0b5fc29923efcb3454e340bdbe/Functional%20Programming/functional_programming.py#L30)
+
 [Functional Programming](https://github.com/KhushalKhare/software_development/blob/main/Functional%20Programming/functional_programming.py)
 
 ## Usage 
